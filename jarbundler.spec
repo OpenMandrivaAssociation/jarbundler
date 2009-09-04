@@ -3,7 +3,7 @@
 
 Name:           jarbundler
 Version:        1.9
-Release:        %mkrel 0.0.1
+Release:        %mkrel 0.0.2
 Epoch:          0
 Summary:        Mac OS X JarBundler ANT Task
 License:        GPL
