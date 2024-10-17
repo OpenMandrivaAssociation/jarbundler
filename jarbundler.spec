@@ -8,7 +8,7 @@ Epoch:          0
 Summary:        Mac OS X JarBundler ANT Task
 License:        GPL
 Group:          Development/Java
-URL:            http://informagen.com/JarBundler/
+URL:            https://informagen.com/JarBundler/
 Source0:        http://informagen.com/JarBundler/dist/jarbundler.tar.gz
 BuildRequires:  ant
 %if %{gcj_support}
